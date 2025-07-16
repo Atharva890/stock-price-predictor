@@ -10,7 +10,7 @@ from datetime import datetime
 import streamlit as st
 
 # Title
-st.title('Stock Price Prediction')
+st.title('Stock Price Prediction')nkoioeiosieenfoisef
 
 # Input box for user to enter stock ticker symbol
 user_input = st.text_input('Enter Stock Ticker' , 'TSLA')
